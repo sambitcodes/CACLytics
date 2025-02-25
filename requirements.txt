@@ -27,4 +27,3 @@ shapely
 category-encoders
 skfeature-chappers
 tpot
-pickle5
